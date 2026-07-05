@@ -33,8 +33,8 @@ The project is now CLI-based and avoids interactive framework-style commands.
 ## Installation
 
 ```bash
-git clone https://github.com/NeiveZ/CLVX.git
-cd CLVX
+git clone https://github.com/NeiveZ/Cloud-Firewall-Exposure-Toolkit.git
+cd Cloud-Firewall-Exposure-Toolkit
 chmod +x clvx.sh
 ./clvx.sh --install
 ```
