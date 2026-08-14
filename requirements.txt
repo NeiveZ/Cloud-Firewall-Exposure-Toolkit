@@ -1,2 +1,0 @@
-# CLVX currently uses Python standard library only.
-# Optional system tools are checked by ./clvx.sh --install.
