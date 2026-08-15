@@ -1,0 +1,2 @@
+# CLVX core uses Python standard library only.
+# NVD/CISA enrichment uses HTTPS APIs without third-party Python packages.
